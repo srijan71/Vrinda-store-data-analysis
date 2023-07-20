@@ -6,5 +6,3 @@ Insights:
 3. Adult age group(30-49 yrs) is max contributing (-50%)
 4. Kurti, wester dress and set are max contributing to the sales(-87%)
 
-
-# Dashboard 
